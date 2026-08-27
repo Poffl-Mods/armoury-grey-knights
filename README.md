@@ -23,6 +23,19 @@ Any such integration, along with the scope and technical approach of the mod, re
 - Investigate technical feasibility.
 - Avoid gameplay implementation until the project moves beyond the concept/planning stage.
 
+## Planning baseline
+
+An initial review of the game data found reusable foundations for force weapons, Space Marine storm bolters, hammers, and flame weapons, but no complete Grey Knight weapon implementations.
+
+The recommended first candidates are:
+
+1. Nemesis Force Sword
+2. Nemesis Daemon Hammer
+3. Grey Knight Storm Bolter
+4. Incinerator
+
+See [Weapon feasibility](docs/weapon-feasibility.md) for the initial findings and proposed implementation order. Candidate selection remains open and no implementation has started.
+
 ## Disclaimer
 
 This is an unofficial fan project and is not affiliated with or endorsed by Games Workshop, Owlcat Games, or their partners. All relevant trademarks and intellectual property belong to their respective owners.
