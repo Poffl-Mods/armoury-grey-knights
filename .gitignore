@@ -1,0 +1,50 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Dd]ist/
+[Rr]elease/
+[Dd]ebug/
+
+# .NET and IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Test and coverage output
+[Tt]est[Rr]esult*/
+[Cc]overage*/
+*.coverage
+*.coveragexml
+
+# NuGet packages and generated artifacts
+packages/
+*.nupkg
+*.snupkg
+project.assets.json
+project.nuget.cache
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local game/modding paths and secrets
+.env
+.env.*
+!.env.example
+local.settings.json
+GamePath.props
